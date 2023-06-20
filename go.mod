@@ -1,4 +1,4 @@
-module github.com/example/golang-test
+module github.com/roisuladib/go-mongo
 
 go 1.20
 
